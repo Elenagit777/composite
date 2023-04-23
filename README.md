@@ -82,25 +82,12 @@ Filatova E.S. BKP_final_2.ipynb - продолжение кода
 
 Filatova E.S. BKP_final_3.ipynb - завершение кода
 
-Filatova E.S. BKP_final_1.html - первая часть кода в html
-
-Filatova E.S. BKP_final_2.html - вторая часть кода в html
-
-Filatova E.S. BKP_final_3.html - третья часть кода в html
-
-Filatova E.S. BKP_final_1.pdf - первая часть кода в pdf
-
-Filatova E.S. BKP_final_2.pdf - вторая часть кода в pdf
-
-Filatova E.S. BKP_final_3.pdf - третья часть кода в pdf
-
 BKP_Filatova_presentazia_final.pdf - презентация ВКР  в формате pdf для защиты
 
 BKP_Filatova_presentazia_final.pptx - презентация ВКР для защиты в формате pptx
 
 Пояснительная записка Филатова Е.С..docx - описание работы на 39 стр в формате docx
 
-Пояснительная записка Филатова Е.С..pdf - описание работы на 39 стр а формате pdf
 
 
 Инструкция использования приложения:
